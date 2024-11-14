@@ -1,7 +1,5 @@
-# fichaFIS
-La idea es incluir en la ficha: definiciones y material de aprendizaje. En la sección de demostración pueden incluir los ejemplos que mostraron.
-# Ficha sobre evaluación de usabilidad
 
+# Ficha sobre evaluación de usabilidad
 
 ## Qué es la usabilidad?
 La usabilidad hace referencia a cómo usamos las cosas, a la facilidad con la que las utilizamos y a si nos permiten hacer lo que necesitamos o deseamos hacer.  Esta se cumple cuando el diseño es intuitivo, eficiente, satisfactorio y accesible para todo tipo de usuarios.
@@ -43,3 +41,31 @@ Ejemplo: Un software de diseño gráfico podría incluir un apartado de "Ayuda" 
 
 ![Principios de usabilidad](/principicos de usabilidad / principicos de usabilidad.JPG "PRINCIPIOS")
 
+## Tipos de evaluación
+### 1. Métodos de Evaluación por Inspección
+En estos métodos, los expertos en usabilidad evalúan la interfaz sin la intervención directa de los usuarios. Se basan en principios de diseño y heurísticas.
++ Evaluación heurística: Un grupo de expertos revisa la interfaz en función de principios de usabilidad (heurísticas) para detectar problemas.
++ Revisión de expertos (Expert Review): Un evaluador especializado revisa la interfaz, identificando problemas sin un conjunto formal de reglas.
++ Inspección cognitiva: Los expertos simulan ser usuarios y evalúan cómo completarían tareas específicas, identificando barreras en la interfaz.
++ Walkthrough de usabilidad:
+  + Walkthrough cognitivo: El evaluador recorre cada paso que un usuario tomaría al realizar una tarea, analizando los problemas potenciales.
+  + Walkthrough plural: Un grupo de evaluadores recorre conjuntamente las tareas, debatiendo y descubriendo problemas de usabilidad.
+
+
+### 2. Métodos de Evaluación por Indagación
+Estos métodos implican obtener información directamente de los usuarios a través de preguntas, observación o diálogo, para comprender su experiencia y percepciones.
++ Observación de campo: Los usuarios son observados en su entorno de trabajo real, sin interferencia del evaluador, para ver cómo interactúan con el sistema.
++ Entrevistas: Los usuarios responden preguntas sobre sus expectativas y experiencias, proporcionando información detallada sobre su uso del sistema.
++ Cuestionarios y encuestas (Surveys): Se recopilan respuestas estructuradas de los usuarios sobre su experiencia de uso.
++ Grupo de discusión dirigido (Focus Group): Un moderador guía una discusión entre varios usuarios para recoger opiniones y percepciones sobre el sistema.
++ Grabación del uso (Logging): Se registra automáticamente el comportamiento de los usuarios (clics, tiempo, navegación) para analizar cómo interactúan con la interfaz.
+
+
+### 3. Métodos de Evaluación por Test
+Estos métodos implican que los usuarios interactúen con el sistema, y los evaluadores miden su desempeño o registran sus opiniones y comportamientos.
++ Pruebas de usabilidad (User Testing): Los usuarios realizan tareas en el sistema, mientras se registran métricas de éxito, tiempo y errores.
++ Pensando en voz alta (Thinking Aloud): Los usuarios verbalizan sus pensamientos mientras realizan tareas, lo que permite entender su razonamiento.
++ Card Sorting: El card sorting o clasificación de tarjetas es una prueba que consiste en escribir los temas clave en diferentes tarjetas (que pueden ser físicas o digitales). A continuación, se pide a los participantes que clasifiquen las tarjetas en grupos que tengan sentido para ellos. Al preguntar a los participantes sobre sus decisiones, los equipos de producto comprenden las expectativas de los usuarios sobre cómo debe organizarse la información.
++ Pruebas de guerrilla: Se realizan pruebas rápidas y económicas en entornos informales, como cafeterías o eventos, con usuarios aleatorios para obtener retroalimentación rápida y detectar problemas iniciales de usabilidad.
++ Tree Testing: El testing es una prueba que sirve para determinar si los usuarios pueden encontrar lo que buscan en la jerarquía de un sitio web. Consiste en mostrar a los participantes una versión solo de texto de la estructura de navegación de un sitio y preguntarles a dónde irían para completar ciertas tareas (como darse de baja de correos electrónicos)
++ Prueba de los cinco segundos: Esta prueba consiste en mostrar a los participantes durante solo cinco segundos un elemento clave de un sitio web, como el esquema de una página de inicio o un logotipo. A continuación, los participantes deben responder a preguntas sobre qué recuerdan, lo que revela sus primeras impresiones sobre el diseño. Las pruebas de los cinco segundos son excelentes para determinar si la introducción de la página de inicio 
